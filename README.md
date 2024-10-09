@@ -1,6 +1,5 @@
 ## Hi there 👋
 ## I'm a3acx (Anand Sathy)
-## I am in 7th grade.
 
 
 - 🔭 I’m currently working on hackclub/hackpad: The SathyPad with @czcx and @hyattb.
